@@ -40,7 +40,7 @@
   "exports": {
     ".": {
       "require": {
-        "types": "./dist/typings/index.d.cts",
+        "types": "./dist/typings/index.d.ts",
         "default": "./dist/cjs/index.js"
       },
       "import": {
@@ -52,6 +52,7 @@
         "default": "./dist/esm/index.js"
       }
     },
+    "./typings/*": "./dist/typings/*.d.ts",
     "./package.json": "./package.json"
   },
   "typings": "dist/typings/index.d.ts",
