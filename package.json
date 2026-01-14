@@ -59,6 +59,11 @@
   "typescript": {
     "definition": "dist/typings/index.d.ts"
   },
+  "typesVersions": {
+    "*": {
+      "typings/*": ["dist/typings/*"]
+    }
+  },
   "type": "module",
   "sideEffects": false,
   "publishConfig": {
