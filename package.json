@@ -64,7 +64,6 @@
       "typings/*": ["dist/typings/*"]
     }
   },
-  "type": "module",
   "sideEffects": false,
   "publishConfig": {
     "directory": "dist",
