@@ -1,3 +1,9 @@
+<h1 align="center">
+  <font color="red">🚨 THIS IS A FORK FOR YARN + NODE 24+ COMPATIBILTY 🚨</font>
+</h1>
+
+<p align="center">For yarn dependency pulling directly from GitHub use the <a href="https://github.com/KarlKadak/graphql-shield/tree/yarn-compat">yarn-compat</a> branch.</p>
+
 <p align="center"><img src="media/shield.jpg" width="300"/></p>
 
 # graphql-shield
